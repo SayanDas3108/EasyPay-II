@@ -69,15 +69,3 @@ Welcome to our Next.js web development project! This project utilizes Next.js fo
 - **Folder Structure**: Each module (user app, bank webhook) can be developed independently within the monorepo structure provided by TurboRepo.
 - **Environment Variables**: Modify the `.env` file for different environments (development, staging, production).
 
-## Contributing
-
-- Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-- Please make sure to update tests as appropriate.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the sections and details based on your project's specific needs and conventions!
